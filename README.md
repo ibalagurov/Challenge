@@ -1,4 +1,4 @@
-# Challenge(IT Challenge - https://itchallenges.me/0
+# Challenge(IT Challenge - https://itchallenges.me/0)
 Example of simple browser test using Ruby + Watir(Selenium-based test framework) + Cucumber + PageObject pattern
 
 ## 1. Install Ruby(2.3.3)
